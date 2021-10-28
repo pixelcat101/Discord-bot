@@ -1,0 +1,2 @@
+This project is just a simple discord bot that you can use to create a complex server bot
+ye am lazy to create a complex server bot :)
